@@ -1,4 +1,30 @@
-/* -Символ коментаря в CSS*/
-.qw {
-	background:green;
+header {
+    background-color: #909090;
+    height: 400px;
+}
+
+#main {
+    background-color: #aca399;
+    height: 500px;
+}
+
+#saidebar {
+    background-color: #988d7f;
+    height: 200px
+}
+
+#navigation {
+    background-color: antiquewhite;
+    height: 50px;
+}
+
+body {
+    background: url(/img/4.jpg);
+    background-attachment: fixed;
+}
+
+#footer {
+    background-color: antiquewhite;
+    height: 100px;
+    text-align: center;
 }
